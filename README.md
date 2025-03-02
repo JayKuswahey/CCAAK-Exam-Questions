@@ -1,4 +1,4 @@
-# CCAAK-Exam-Questions
+# CCAAK Exam Questions
 [![README Header][readme_header_img]][readme_header_link]
 
 Firstly these questions are based on real world problems the team solves at OSO. These
